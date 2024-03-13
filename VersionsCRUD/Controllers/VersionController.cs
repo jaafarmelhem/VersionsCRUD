@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using VersionsCRUD.Models;
+using Models.Version;
 using Npgsql;
 
 namespace VersionsCRUD.Controllers

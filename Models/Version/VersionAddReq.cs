@@ -1,4 +1,4 @@
-﻿namespace VersionsCRUD.Models
+﻿namespace Models.Version
 {
     public class VersionAddReq
     {
